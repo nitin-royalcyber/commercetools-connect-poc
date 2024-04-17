@@ -1,5 +1,5 @@
 deployAs:
-  - name: poc-connect-app
+  - name: service
     applicationType: service
     endpoint: /service
     scripts:
